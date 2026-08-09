@@ -1,11 +1,29 @@
-# 🚀 MotivaGen
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrishBharadwaj5678&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://hits.sh/github.com/KrishBharadwaj5678/MotivaGen.svg?style=for-the-badge&label=Repo%20Views&color=blue" />
+  <img src="https://img.shields.io/github/stars/KrishBharadwaj5678/MotivaGen?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/KrishBharadwaj5678/MotivaGen?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/repo-size/KrishBharadwaj5678/MotivaGen?style=for-the-badge&color=blue" />
+</p>
 
-Experience the thrill of endless inspiration and elevate your mood with just a click.
-Start creating your daily dose of motivation with **MotivaGen**, your personal motivation generator.
+<p align="center">
+  <a href="README.md">English</a> | 
+  <a href="README.pt.md">Português</a> | 
+  <a href="README.ja.md">日本語</a> | 
+  <a href="README.ru.md">Русский</a>
+</p>
 
-![MotivaGenDemo](https://github.com/KrishBharadwaj5678/MotivaGen/blob/main/MotivaGenDemo.png)
+<h1 align="center"><img src="https://github.com/KrishBharadwaj5678/MotivaGen/raw/main/assets/icons/icon.png" width="35"/> MotivaGen</h1>
 
-## ✨ Features
+<p align="center">
+  MotivaGen delivers personalized motivation to help you stay focused, overcome challenges, and take meaningful steps toward your goals.
+</p>
+
+![MotivaGenDemo](https://github.com/KrishBharadwaj5678/MotivaGen/raw/main/demos/MotivaGenDemo.png)
+
+<img src="https://github.com/KrishBharadwaj5678/MotivaGen/raw/main/assets/readme/divider.gif" width="100%"/>
+
+## <img src="https://github.com/KrishBharadwaj5678/MotivaGen/raw/main/assets/readme/features.gif" width="35"/> Features
 
 | Feature                        | Description                                         |
 | ------------------------------ | --------------------------------------------------- |
@@ -16,20 +34,20 @@ Start creating your daily dose of motivation with **MotivaGen**, your personal m
 | 🌐 Web-Based                   | Accessible from any browser without installation    |
 | 📱 Responsive Design           | Smooth experience across devices                    |
 
----
+<img src="https://github.com/KrishBharadwaj5678/MotivaGen/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## 🛠️ Tech Stack
+## <img src="https://github.com/KrishBharadwaj5678/MotivaGen/raw/main/assets/readme/techStack.gif" width="35"/> Tech Stack
 
-| Technology            | Purpose                              |
-| --------------------- | ------------------------------------ |
-| 🐍 **Python**         | Core programming language            |
-| 🎈 **Streamlit**      | Builds the interactive web interface |
-| 📡 **Requests**       | Handles API calls                    |
-| 🔗 **Motivation API** | Fetches random motivational content  |
+| Technology                                                                                       | Purpose                              |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------ |
+| <img src="https://skillicons.dev/icons?i=python" width="25"/> **Python**                         | Core programming language            |
+| <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="25"/> **Streamlit** | Builds the interactive web interface |
+| <img src="https://skillicons.dev/icons?i=python" width="25"/> **Requests**                       | Handles API calls                    |
+| <img src="https://www.svgrepo.com/show/375531/api.svg" width="25"/> **Motivation API**           | Fetches random motivational content  |
 
----
+<img src="https://github.com/KrishBharadwaj5678/MotivaGen/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## 🚀 Getting Started
+## <img src="https://github.com/KrishBharadwaj5678/MotivaGen/raw/main/assets/readme/gettingStarted.gif" width="35"/> Getting Started
 
 ### 1️⃣ Clone the Repository
 
@@ -55,14 +73,14 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
+<img src="https://github.com/KrishBharadwaj5678/MotivaGen/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## Contributing 🤝
+## <img src="https://github.com/KrishBharadwaj5678/MotivaGen/raw/main/assets/readme/license.gif" width="35"/> License
 
-Want to contribute? Here's how:
+This project is licensed under the **MIT License**.
 
-1. 🍴 Fork the repository.
-2. 🌿 Create a new branch (`git checkout -b feature-name`).
-3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
-4. 🚀 Push to your branch (`git push origin feature-name`).
-5. 🔄 Submit a pull request to merge into the main branch.
+See the [LICENSE](LICENSE) file for more details.
+
+<p align="center">
+  <img src="https://github.com/KrishBharadwaj5678/MotivaGen/raw/main/assets/readme/footer.gif" width="300px"/>
+</p>
